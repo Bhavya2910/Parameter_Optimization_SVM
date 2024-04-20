@@ -38,8 +38,6 @@ Here are the results of parameter optimization:
 
 ## Convergence Graph
 
-The convergence graph for the sample with the maximum accuracy (Sample 2) is shown below:
-
 ![Convergence Graph](Convergence_graph.jpg)
 
 From the convergence graph,  we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve as the number of iterations increases.
