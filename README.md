@@ -7,7 +7,7 @@ Some of the most important parameters of SVM such as kernel, C, and gamma can be
 
 We can perform this task using GridSearchCV for optimizing these parameters.
 
-In this python file, Fitness Function has been used to optimize the parameters.
+Here, Fitness Function has been used to optimize the parameters.
 
 ## Dataset Description
 
